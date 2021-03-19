@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MarvelApiIntegration.Application\MarvelApiIntegration.Application\MarvelApiIntegration.Application.csproj" />
   </ItemGroup>
 

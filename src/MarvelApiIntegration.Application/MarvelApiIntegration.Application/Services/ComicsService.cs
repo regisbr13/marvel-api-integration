@@ -13,7 +13,7 @@ namespace MarvelApiIntegration.Application.Services
         public async Task<string> GetCharacterCsvFile(int characterId, int limitResults)
         {
             var comics = await _service.GetComicsByCharacter(characterId, limitResults);
-            return CsvGenerator.GetContent(comics);
+            return CsvHelper.GetContent(comics);
         }
     }
 }

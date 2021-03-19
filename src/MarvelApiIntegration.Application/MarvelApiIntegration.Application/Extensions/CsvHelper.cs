@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MarvelApiIntegration.Application.Extensions
 {
-    public static class CsvGenerator
+    public static class CsvHelper
     {
         public static string GetContent<T>(List<T> values) where T : class
         {
