@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelServiceIntegration.Api", "src\MarvelServiceIntegration.Api\MarvelServiceIntegration.Api.csproj", "{10B9212C-1467-41D0-9E65-FE257F9E0881}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Presentation", "01 - Presentation", "{BBC8B0E4-4257-4EEA-8F4F-5E2A55FD3B3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Services", "02 - Services", "{FB9F6F81-E1DB-4656-AF96-549106DDB3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelApiIntegration.Application", "src\MarvelApiIntegration.Application\MarvelApiIntegration.Application\MarvelApiIntegration.Application.csproj", "{DDD0830F-14D8-4F83-885F-EB816758BFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B9212C-1467-41D0-9E65-FE257F9E0881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B9212C-1467-41D0-9E65-FE257F9E0881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B9212C-1467-41D0-9E65-FE257F9E0881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B9212C-1467-41D0-9E65-FE257F9E0881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD0830F-14D8-4F83-885F-EB816758BFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD0830F-14D8-4F83-885F-EB816758BFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD0830F-14D8-4F83-885F-EB816758BFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD0830F-14D8-4F83-885F-EB816758BFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10B9212C-1467-41D0-9E65-FE257F9E0881} = {BBC8B0E4-4257-4EEA-8F4F-5E2A55FD3B3A}
+		{DDD0830F-14D8-4F83-885F-EB816758BFD1} = {FB9F6F81-E1DB-4656-AF96-549106DDB3F6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB7FF8A-16CF-4415-B96B-D87F31D40B64}
+	EndGlobalSection
+EndGlobal
