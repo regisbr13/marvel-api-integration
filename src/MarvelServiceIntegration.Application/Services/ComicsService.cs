@@ -1,8 +1,8 @@
-﻿using MarvelApiIntegration.Application.Extensions;
-using MarvelApiIntegration.Application.Interfaces;
+﻿using MarvelServiceIntegration.Application.Extensions;
+using MarvelServiceIntegration.Application.Interfaces;
 using System.Threading.Tasks;
 
-namespace MarvelApiIntegration.Application.Services
+namespace MarvelServiceIntegration.Application.Services
 {
     public class ComicsService : IComicsService
     {

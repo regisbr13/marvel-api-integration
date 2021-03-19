@@ -17,6 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\MarvelApiIntegration.Application\MarvelApiIntegration.Application\MarvelApiIntegration.Application.csproj" />
+    <ProjectReference Include="..\..\src\MarvelServiceIntegration.Application\MarvelServiceIntegration.Application.csproj" />
   </ItemGroup>
 </Project>

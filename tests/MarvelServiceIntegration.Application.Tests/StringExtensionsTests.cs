@@ -1,9 +1,9 @@
 ﻿using FluentAssertions;
-using MarvelApiIntegration.Application.Extensions;
-using MarvelApiIntegration.Application.Tests.Helpers;
+using MarvelServiceIntegration.Application.Extensions;
+using MarvelServiceIntegration.Application.Tests.Helpers;
 using Xunit;
 
-namespace MarvelApiIntegration.Application.Tests
+namespace MarvelServiceIntegration.Application.Tests
 {
     [Collection(nameof(ApplicationTestsFixtureCollection))]
     public class StringExtensionsTests

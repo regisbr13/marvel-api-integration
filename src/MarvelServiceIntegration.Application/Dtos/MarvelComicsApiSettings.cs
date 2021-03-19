@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace MarvelApiIntegration.Application.Dtos
+namespace MarvelServiceIntegration.Application.Dtos
 {
     public class MarvelComicsApiSettings
     {

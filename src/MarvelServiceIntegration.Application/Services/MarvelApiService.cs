@@ -1,11 +1,11 @@
-﻿using MarvelApiIntegration.Application.Dtos;
-using MarvelApiIntegration.Application.Interfaces;
+﻿using MarvelServiceIntegration.Application.Dtos;
+using MarvelServiceIntegration.Application.Interfaces;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace MarvelApiIntegration.Application.Services
+namespace MarvelServiceIntegration.Application.Services
 {
     public class MarvelApiService : IMarvelApiService
     {

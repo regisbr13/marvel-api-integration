@@ -1,6 +1,6 @@
 ﻿using Bogus;
-using MarvelApiIntegration.Application.Dtos;
-using MarvelApiIntegration.Application.Services;
+using MarvelServiceIntegration.Application.Dtos;
+using MarvelServiceIntegration.Application.Services;
 using Moq;
 using Moq.AutoMock;
 using Moq.Protected;
@@ -13,7 +13,7 @@ using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace MarvelApiIntegration.Application.Tests.Helpers
+namespace MarvelServiceIntegration.Application.Tests.Helpers
 {
     public class ApplicationTestsFixture
     {

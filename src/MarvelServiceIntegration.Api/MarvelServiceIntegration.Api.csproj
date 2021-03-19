@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MarvelApiIntegration.Application\MarvelApiIntegration.Application\MarvelApiIntegration.Application.csproj" />
+    <ProjectReference Include="..\MarvelServiceIntegration.Application\MarvelServiceIntegration.Application.csproj" />
   </ItemGroup>
 
 </Project>

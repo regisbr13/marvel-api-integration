@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace MarvelApiIntegration.Application.Interfaces
+namespace MarvelServiceIntegration.Application.Interfaces
 {
     public interface IComicsService
     {

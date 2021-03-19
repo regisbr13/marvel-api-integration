@@ -1,4 +1,4 @@
-﻿namespace MarvelApiIntegration.Application.Extensions
+﻿namespace MarvelServiceIntegration.Application.Extensions
 {
     public static class StringExtensions
     {

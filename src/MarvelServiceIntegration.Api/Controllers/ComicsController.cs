@@ -1,4 +1,4 @@
-﻿using MarvelApiIntegration.Application.Interfaces;
+﻿using MarvelServiceIntegration.Application.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;

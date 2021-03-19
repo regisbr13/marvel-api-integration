@@ -1,5 +1,5 @@
-﻿using MarvelApiIntegration.Application.Interfaces;
-using MarvelApiIntegration.Application.Services;
+﻿using MarvelServiceIntegration.Application.Interfaces;
+using MarvelServiceIntegration.Application.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace MarvelServiceIntegration.Api.Configurations

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace MarvelApiIntegration.Application.Dtos
+namespace MarvelServiceIntegration.Application.Dtos
 {
     public class ApiResponseData
     {

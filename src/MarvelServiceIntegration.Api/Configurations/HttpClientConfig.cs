@@ -1,6 +1,6 @@
-﻿using MarvelApiIntegration.Application.Dtos;
-using MarvelApiIntegration.Application.Interfaces;
-using MarvelApiIntegration.Application.Services;
+﻿using MarvelServiceIntegration.Application.Dtos;
+using MarvelServiceIntegration.Application.Interfaces;
+using MarvelServiceIntegration.Application.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;

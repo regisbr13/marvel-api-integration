@@ -1,8 +1,8 @@
-﻿using MarvelApiIntegration.Application.Dtos;
+﻿using MarvelServiceIntegration.Application.Dtos;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MarvelApiIntegration.Application.Interfaces
+namespace MarvelServiceIntegration.Application.Interfaces
 {
     public interface IMarvelApiService
     {

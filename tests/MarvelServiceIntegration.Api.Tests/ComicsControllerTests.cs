@@ -1,6 +1,6 @@
 using FluentAssertions;
-using MarvelApiIntegration.Api.Tests.Helpers;
-using MarvelApiIntegration.Application.Interfaces;
+using MarvelServiceIntegration.Api.Tests.Helpers;
+using MarvelServiceIntegration.Application.Interfaces;
 using MarvelServiceIntegration.Api.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace MarvelApiIntegration.Api.Tests
+namespace MarvelServiceIntegration.Api.Tests
 {
     [Collection(nameof(ApiTestsFixtureCollection))]
     public class ComicsControllerTests

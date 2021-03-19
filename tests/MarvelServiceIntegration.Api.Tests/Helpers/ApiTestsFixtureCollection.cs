@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace MarvelApiIntegration.Api.Tests.Helpers
+namespace MarvelServiceIntegration.Api.Tests.Helpers
 {
     [CollectionDefinition(nameof(ApiTestsFixtureCollection))]
     public class ApiTestsFixtureCollection : ICollectionFixture<ApiTestsFixture>

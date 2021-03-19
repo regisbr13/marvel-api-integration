@@ -1,4 +1,4 @@
-﻿namespace MarvelApiIntegration.Application.Dtos
+﻿namespace MarvelServiceIntegration.Application.Dtos
 {
     public class ApiResponse
     {

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text;
 
-namespace MarvelApiIntegration.Application.Extensions
+namespace MarvelServiceIntegration.Application.Extensions
 {
     public static class CsvHelper
     {

@@ -1,7 +1,7 @@
 ﻿using Bogus;
 using Moq.AutoMock;
 
-namespace MarvelApiIntegration.Api.Tests.Helpers
+namespace MarvelServiceIntegration.Api.Tests.Helpers
 {
     public class ApiTestsFixture
     {
